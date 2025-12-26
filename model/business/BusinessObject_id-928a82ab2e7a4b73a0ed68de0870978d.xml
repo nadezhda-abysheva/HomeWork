@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Заявка"
+    id="id-928a82ab2e7a4b73a0ed68de0870978d">
+  <properties
+      key="Место стоянки самолета"/>
+  <properties
+      key="Количество топлива"/>
+  <properties
+      key="Дата и время заявки"/>
+  <properties
+      key="Время на исполнение"/>
+</archimate:BusinessObject>

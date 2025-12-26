@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="БД Наряды"
+    id="id-82da7b8c0aab4177b1520a0dc343d26a">
+  <properties
+      key="Номер наряда"/>
+  <properties
+      key="Дата и время"/>
+  <properties
+      key="Машина"
+      value="ID"/>
+  <properties
+      key="Водитель"/>
+  <properties
+      key="Статус исполнения"/>
+  <properties
+      key="Позиция самолета"/>
+  <properties
+      key="Водитель"/>
+  <properties
+      key="Чат с диспетчером"/>
+</archimate:DataObject>
